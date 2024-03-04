@@ -1,3 +1,3 @@
-- 👋 Hi, I’m João, a Ph.D. student working with Evolutionary Computation methods and their applications on Remote Sensing Data
-- 👀 I’m interested in Evolutionary Computation methods, namely Genetic Programming.
+- 👋 Hi, I’m João Batista, a researcher working with evolutionary computation methods and their applications on satellite imagery.
+- 👀 I’m interested in genetic programming, model interpretability, feature selection and construction, and classification.
 - 📖 You can see my pages at https://linktr.ee/batistaje
