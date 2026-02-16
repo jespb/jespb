@@ -1,3 +1,3 @@
 - 👋 Hi, I’m João Batista, a post-doc researcher at RIKEN-CCS.
-- 👀 I’m interested in Attribution in LLMs, Feature Engineering, Genetic Programming, Model Interpretability and Remote Sensing.
+- 👀 Lately, I have been researching LLMs' token-per-second throughput optimization and C code optimization using machine learning
 - 📖 You can see my pages at https://linktr.ee/batistaje
